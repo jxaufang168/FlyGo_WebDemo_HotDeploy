@@ -1,6 +1,5 @@
 # FlyGo_WebDemo_HotDeploy
 文档地址：https://www.flygo520.com/docs/maven/maven-1am5uda82bu0v
-[TOC]
 
 # 热部署说明
 
